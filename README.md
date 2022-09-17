@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**AnaStadelhofer/AnaStadelhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Bem-vindo ao meu perfil do Github!
 
-Here are some ideas to get you started:
+## Me chamo Ana Carolina Stadelhofer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou estudando mais sobre automação
+- 🎓 Estudante de Analise e Desenvolvimento de Sistemas no Senac
+- 💼 Analista de Qualidade na Neomind
+- 🔭 Atualmente estou trabalhando com Testes Manuais e Automatizados
+- 💬 Pergunte-me sobre o que quiser
+- ⚡ Curiosidade, almejo estudar outros idiomas, alemão está entre eles!
+
+## Contatos:
+
+<div>
+<a href = "mailto:ana.stadelhofer"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ana-carolina-stadelhofer-a221b0198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## Conhecimentos
+
+- 💻 C | C++ | Java | C# | PHP | 
+- 🌐 HTML | CSS | Bootstrap |
+- 🤖 Ruby on Rails | Capybara | Cucumber | Cypress |
+- 🛢 MySQL | SQL Server
+- 🔧 Visual Studio Code | Git
