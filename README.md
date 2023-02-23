@@ -25,8 +25,3 @@
 - 🛢 MySQL | SQL Server
 - 🔧 Visual Studio Code | Git
 
-## GitHub Status
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaStadelhofer&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaStadelhofer&theme=tokyonight)
