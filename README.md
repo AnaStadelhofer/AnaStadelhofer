@@ -7,7 +7,7 @@
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas no Senac
 - 💼 Analista de Qualidade na Neomind
 - 🔭 Atualmente estou trabalhando com Testes Manuais e Automatizados
-- 💬 Pergunte-me sobre o que quiser
+- 💬 Tenho um hobby de desenvolver ou pensar em algumas aplicações
 - ⚡ Curiosidade, almejo estudar outros idiomas, alemão está entre eles!
 
 ## Contatos:
@@ -19,9 +19,9 @@
 
 ## Conhecimentos
 
-- 💻 C | C++ | Java | C# | PHP | 
-- 🌐 HTML | CSS | Bootstrap |
-- 🤖 Ruby on Rails | Capybara | Cucumber | Cypress |
-- 🛢 MySQL | SQL Server
-- 🔧 Visual Studio Code | Git
+- 💻 C | C++ | Java | C# | PHP | JavaScript |
+- 🌐 HTML | CSS | Bootstrap | React | React Native |
+- 🤖 Ruby | Capybara | Cucumber | Cypress |
+- 🛢 MySQL | SQL Server |
+- 🔧 Visual Studio Code | Git |
 
