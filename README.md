@@ -3,12 +3,11 @@
 
 ## Me chamo Ana Carolina Stadelhofer
 
-- 🌱 Atualmente estou estudando mais sobre automação, focando exclusivamente em Cypress no momento;
-- 🎓 Formanda em Analise e Desenvolvimento de Sistemas no Senac;
-- 💼 Analista de Qualidade na Neomind;
-- 🔭 Atualmente estou trabalhando com testes manuais, automatizados e referência em testes e suporte para gestão para equipe;
-- 💬 Tenho um hobby de desenvolver testes automatizados, estudar assuntos na áreas testes, ler ou assistir filmes/series;
-- ⚡ Curiosidade: viciada em café (ainda mais um cappuccino).
+- 🎓 Formada em Analise e Desenvolvimento de Sistemas no SENAC;
+- 🐞 Pós-graduada em Testes de Software na Unyleya;
+- 💼 Analista de Teste/QA Pleno na Neomind;
+- ❤️ Atuando na área de Qualidade de Software desde 2021;
+- 🥇 Ambiciosa por conhecimento, sempre busco aprender mais, principalmente de automação;
 
 ## Contatos:
 
@@ -21,7 +20,7 @@
 
 - 💻 C | C++ | Java | C# | PHP | JavaScript |
 - 🌐 HTML | CSS | Bootstrap | React | React Native |
-- 🤖 Ruby | Capybara | Cucumber | Cypress |
+- 🤖 Ruby | Capybara | Cucumber | Cypress | JUnit | Selenium |
 - 🛢 MySQL | SQL Server | Oracle |
-- 🔧 Visual Studio Code | Git | JIRA |
+- 🔧 Visual Studio Code | Git | JIRA | Inteliji | Eclipse |
 
