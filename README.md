@@ -10,7 +10,7 @@ Sou Analista de Qualidade e Testes, atuando na área desde 2021. Viciada em um c
 
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas no SENAC;
 - 🐞 Pós-graduada em Testes de Software na Unyleya;
-- 💼 Analista de Teste/QA Pleno na Neomind;
+- 💼 Analista de Teste/QA Pleno na BMP Tech, voltado para testes em sistema CaaS;
 - ❤️ Atuando na área de Qualidade de Software desde 2021;
 - 🥇 Ambiciosa por conhecimento, sempre busco aprender mais, principalmente de automação;
 
