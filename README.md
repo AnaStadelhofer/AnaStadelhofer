@@ -14,9 +14,6 @@ Sou Analista de Qualidade e Testes, atuando na área desde 2021. Viciada em um c
 - ❤️ Atuando na área de Qualidade de Software desde 2021;
 - 🥇 Ambiciosa por conhecimento, sempre busco aprender mais, principalmente de automação;
 
-[![card](https://github-readme-stats.vercel.app/api?username=AnaStadelhofer&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![AnaStadelhofer](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaStadelhofer&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-stadelhofer/)
