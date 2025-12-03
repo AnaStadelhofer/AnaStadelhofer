@@ -25,8 +25,8 @@ Sou Analista de Qualidade e Testes, atuando na área desde 2021. Viciada em um c
 
 - 💻 C | C++ | Java | C# | PHP | JavaScript |
 - 🌐 HTML | CSS | Bootstrap | React | React Native |
-- 🤖 Ruby | Capybara | Cucumber | Cypress | JUnit | Selenium |
+- 🤖 Ruby | Capybara | Cucumber | Cypress | JUnit | Selenium | Robot Framework | Playwright
 - 🛢 MySQL | SQL Server | Oracle |
-- 🔧 Visual Studio Code | Git | JIRA | Inteliji | Eclipse |
+- 🔧 Visual Studio Code | Git | JIRA | Inteliji | Eclipse | Azure DevOps
 
 
