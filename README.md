@@ -16,9 +16,6 @@ I'm a Quality Assurance Analyst working in the field since 2021. Addicted to cap
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-stadelhofer/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ana.stadelhofer@outlook.com)
-
 <hr />
 
 ## Skills & tools
@@ -27,7 +24,7 @@ I'm a Quality Assurance Analyst working in the field since 2021. Addicted to cap
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=Java&logoColor=red)
+![Java](https://img.shields.io/badge/Java-777BB4.svg?style=for-the-badge&logo=Java&logoColor=red)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
